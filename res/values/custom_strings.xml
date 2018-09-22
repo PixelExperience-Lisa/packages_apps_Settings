@@ -33,4 +33,7 @@
     <!-- Warning message for the sd card setup -->
     <string name="storage_warning_internal">Warning: This option may not work properly or lead to data loss and is therefore not recommended!</string>
 
+    <!-- Density category -->
+    <string name="density_category">Density options</string>
+
 </resources>
