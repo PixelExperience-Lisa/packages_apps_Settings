@@ -148,4 +148,7 @@
     <string name="ambient_notification_light_color_automatic_title">Notification color</string>
     <string name="pulse_ambient_light_color">When pulsing, use</string>
 
+    <!-- Black theme for dark mode -->
+    <string name="berry_black_theme_title">Pure black</string>
+    <string name="berry_black_theme_summary">Pure black background for dark theme</string>
 </resources>
